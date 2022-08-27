@@ -27,6 +27,7 @@ Rapor PDF - [PDFHost]( https://pdfhost.io/v/9du7TgeWe_Bilgi_Sistemleri_Ve_Gvenli
 <p align="center">
   <img width="460" height="300" src="https://github.com/bsg3/ETSO/blob/main/IMG/ETSO1.jpg?raw=true">
 </p>
+
 ## İletişim
 
 Ahmet Sezer Alaca - [Linkedin](https://linkedin.com/in/sezeralaca)<br />
