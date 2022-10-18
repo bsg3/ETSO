@@ -9,7 +9,7 @@
   <p align="center">
     Elazığ Ticaret ve Sanayi Odası web sitesi için yapılmış pentest ve analiz raporunun bulunduğu GitHub reposu.
     <br />
-    <a href="https://www.youtube.com/watch?v=huIdMITWGwU">XLOG Bypass Kanıt Videosu</a><br />
+    <a href="https://www.youtube.com/watch?v=huIdMITWGwU">XLOG Bypass Videosu</a><br />
     
 ### RAPOR PDF LİNKLERİ
 
